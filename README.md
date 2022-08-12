@@ -6,7 +6,7 @@ This is single-screen Android app with text and images. It is a basic user inter
 - ViewGroup
 #### Android Layout Types:
 - LineraLayout
-- RelativeLayout \n
+- RelativeLayout
 - LayoutWeight
 - Padding
 - Margin
